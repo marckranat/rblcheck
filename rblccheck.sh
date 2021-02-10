@@ -12,7 +12,7 @@ BLISTS="
     bl.spamcop.net
     zen.spamhaus.org
 "
-# register at http://www.projecthoneypot.org/httpbl_api.php to
+# register at https://www.projecthoneypot.org/account_login.php to
 # obtain an API-key
 HTTPbl_API_KEY="api-key-here"
 # simple shell function to show an error message and exit
