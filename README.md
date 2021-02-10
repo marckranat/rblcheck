@@ -8,7 +8,7 @@ Bulk `./rblbulk`
 
 empty respons is good
 
-Return Codes	Data Source
+```Return Codes	Data Source
 127.0.1.2	spam domain
 127.0.1.4	phish domain
 127.0.1.5	malware domain
@@ -18,4 +18,4 @@ Return Codes	Data Source
 127.0.1.104	abused legit phish
 127.0.1.105	abused legit malware
 127.0.1.106	abused legit botnet C&C
-127.0.1.255	IP queries prohibited!
+127.0.1.255	IP queries prohibited!```
