@@ -1,4 +1,4 @@
 for address in `cat blacklist.txt`;
-   do ./rblcheck $address;
+   do ./rblcheck.sh $address;
    sleep 2;
    done
