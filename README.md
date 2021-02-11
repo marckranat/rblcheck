@@ -7,3 +7,6 @@ Usage `./rblcheck 123.123.123.123`
 Bulk `./rblbulk`
 
 An empty response is good
+
+To make a list of IPs from a subnet for blacklist.txt
+http://magic-cookie.co.uk/iplist.html
